@@ -12,17 +12,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmileBen/project1.git"
+    "url": "git+https://github.com/Eliamabb/Module1-Assignment.git"
   },
   "keywords": [
     "web"
   ],
-  "author": "Emile Benveniste",
+  "author": "Eliam Abbou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EmileBen/project1/issues"
+    "url": "https://github.com/Eliamabb/Module1-Assignment/issues"
   },
-  "homepage": "https://github.com/EmileBen/project1#readme",
+  "homepage": "https://github.com/Eliamabb/Module1-Assignment#readme",
   "dependencies": {
     "express": "^4.17.3"
   }
